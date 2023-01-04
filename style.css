@@ -44,6 +44,7 @@ footer {
     padding-right: 2%;
     padding-top: 0.5%;
     color: #333;
+    font-size: small;
 }
 
 section.AddInv h1{
@@ -66,3 +67,47 @@ section.EditInv h1{
     padding-top: 6px;
     padding-bottom: 15px;
 }
+
+.container {
+    display: flex;
+
+}
+
+.text {
+    margin-right: auto;
+    background-color: white;
+    width: 100%;
+    height: 39px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    border-radius: 9px;
+    padding-left: 6%;
+    color: #333;
+}
+
+.btnEdit{
+    border: none;
+    color: white;
+    height: 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    width: 120px;
+    border-radius: 9px;
+}
+
+.btnDel{
+    border: none;
+    color: white;
+    height: 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    width: 120px;
+    border-radius: 9px;
+}
+
+

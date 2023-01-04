@@ -1,0 +1,48 @@
+html, body{
+    height:100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+footer {
+    background-color: #ccc !important; 
+    position: absolute 0 !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    color: #333;
+    display: flex;
+    align-items: center !important;
+    align-content: center !important;
+    text-align: center !important;
+    justify-content: space-around !important;
+}
+
+.contenido{
+    height:100%;
+    width: 100%;  
+    background-color: beige;   
+    padding-left: 3.6%;
+    padding-right: 3.6%;
+}
+
+.ZyR{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 15px;
+    line-height: 0% !important;
+    font-size: 2em !important;
+    line-height: 1.1 !important;
+    font-weight: 900 !important;
+    font-weight: bold;
+}
+
+.DesCRUD{
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.5%;
+    color: #333;
+}
+

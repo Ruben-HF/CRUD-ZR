@@ -46,3 +46,23 @@ footer {
     color: #333;
 }
 
+section.AddInv h1{
+    color: #333;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+section.EditInv h1{
+    color: #333;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+}
+
+.btn-add{ 
+    width: 100% !important;
+    padding-top: 6px;
+    padding-bottom: 15px;
+}
